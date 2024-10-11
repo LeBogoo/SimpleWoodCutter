@@ -1,0 +1,8 @@
+name: SimpleWoodCutter
+version: '1.0-SNAPSHOT'
+main: me.lebogo.simpleWoodCutter.SimpleWoodCutter
+api-version: '1.20'
+prefix: SWC
+authors: [ LeBogo ]
+description: Did you ever wonder why the Stone Cutter can't cut Wood? Now it can!
+website: https://lebogo.me
